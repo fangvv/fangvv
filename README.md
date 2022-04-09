@@ -13,6 +13,8 @@ Hi, I am Weiwei Fang
 
 欢迎您fork代码，更欢迎您点击project的star或者引用我们的paper，给予我们一点小小的精神支持！
 
+![](https://komarev.com/ghpvc/?username=fangvv)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fangvv)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 💬 想问我
