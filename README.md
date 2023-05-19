@@ -21,6 +21,8 @@ Hi, I am Weiwei Fang
 
 所以多数情况下请联系我的学生，联系不上（一般毕业了之后上班比较忙，很少查看原先学校邮箱）可以告诉我，我可以帮忙牵线搭桥。
 
+> Please note that the open source code of any repo under this account was mainly completed by the graduate student author during his/her master's degree study. Since the author did not continue to engage in scientific research work after graduation, it is difficult to continue to maintain and update these codes. We sincerely apologize that these codes are for reference only.
+
 ## 📫 联系我
 
 * 📧 Email：[QQ邮箱](mailto:fangvv@qq.com)
