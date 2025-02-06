@@ -1,13 +1,17 @@
 Hi, I am Weiwei Fang
 =================
 
-## 👋 我是谁
+## 👋 我是谁 Who
 
 我是方维维，中国一所高等院校的教师，也是一名CS领域的科研人员，非常普通。
 
 您可以访问我的[主页](http://faculty.bjtu.edu.cn/8530/)了解更多关于我的情况。
 
-## 🌱 为什么
+I am Weiwei Fang, a faculty member at a Chinese university and a researcher in the field of Computer Science. I am quite ordinary.
+
+You can visit my [homepage](http://faculty.bjtu.edu.cn/8530/) to learn more about me.
+
+## 🌱 为什么 Why
 
 我用Github存放我和课题组学生的研究工作相关代码，如果碰巧对您有参考价值，那就太好了。
 
@@ -15,7 +19,13 @@ Hi, I am Weiwei Fang
 
 请注意：代码仅供参考！
 
-## 💬 想问我
+I use GitHub to store the code related to the research work of my students and me. If it happens to be of value or reference to you, that would be wonderful.
+
+You are welcome to fork the code, and we would be even more grateful if you could star the projects or cite our papers – a little spiritual support goes a long way!
+
+Please note: The code is for reference only!
+
+## 💬 想问我 Note
 
 每个Repo我们都会留下联系方式，实话说并不是所有代码都是我写的，时间有限我也不可能帮您调试代码，解释细节。
 
@@ -23,7 +33,7 @@ Hi, I am Weiwei Fang
 
 > Please note that the open source code of any repo under this account was mainly completed by the graduate student author during his/her master's degree study. Since the author did not continue to engage in scientific research work after graduation, it is difficult to continue to maintain and update these codes. We sincerely apologize that these codes are for reference only.
 
-## 📫 联系我
+## 📫 联系我 Contact
 
 * 📧 Email：[QQ邮箱](mailto:fangvv@qq.com)
 
