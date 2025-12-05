@@ -47,8 +47,6 @@ Please note: The code is for reference only!
 
 * 📧 Email：[QQ邮箱](mailto:fangvv@qq.com)
 
-<img src="https://github-readme-stats.vercel.app/api?username=fangvv&show_icons=true&count_private=true" alt="fangvv" />
-
 <!--
 **fangvv/fangvv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
