@@ -117,16 +117,15 @@ Since the author did not continue to engage in scientific research work after gr
 <div align="center">
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=fangvv&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" alt="Weiwei Fang's GitHub Stats" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=fangvv&theme=tokyonight&hide_border=true" alt="Weiwei Fang's GitHub Streak" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=fangvv&theme=default&hide_border=false&background=FFFFFF&ring=0969DA&fire=0969DA&currStreakLabel=24292F" alt="Weiwei Fang's GitHub Streak" />
 </p>
 
 <p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fangvv&theme=tokyo-night&hide_border=true&area=true" alt="Weiwei Fang's GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fangvv&theme=github-light&bg_color=FFFFFF&color=24292F&line=0969DA&point=0969DA&area=true&hide_border=false" alt="Weiwei Fang's GitHub Activity Graph" />
 </p>
 
 <p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fangvv&theme=tokyonight" alt="Weiwei Fang's GitHub Profile Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fangvv&theme=default" alt="Weiwei Fang's GitHub Profile Summary" />
 </p>
 
 </div>
