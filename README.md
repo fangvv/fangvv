@@ -112,16 +112,22 @@ Since the author did not continue to engage in scientific research work after gr
 
 ---
 
-## 📫 联系我 · Contact
+## GitHub 统计 · GitHub Stats
 
 <div align="center">
 
-<a href="mailto:fangvv@qq.com">
-  <img src="https://img.shields.io/badge/Email-fangvv%40qq.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="http://faculty.bjtu.edu.cn/8530/">
-  <img src="https://img.shields.io/badge/Homepage-Visit%20My%20Homepage-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Homepage" />
-</a>
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=fangvv&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" alt="Weiwei Fang's GitHub Stats" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=fangvv&theme=tokyonight&hide_border=true" alt="Weiwei Fang's GitHub Streak" />
+</p>
+
+<p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fangvv&theme=tokyo-night&hide_border=true&area=true" alt="Weiwei Fang's GitHub Activity Graph" />
+</p>
+
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fangvv&theme=tokyonight" alt="Weiwei Fang's GitHub Profile Summary" />
+</p>
 
 </div>
 
