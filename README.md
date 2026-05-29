@@ -95,18 +95,34 @@ Since the author did not continue to engage in scientific research work after gr
 
 ---
 
-## ⚡ 重要提示 · Notice
+## ⚠️ 重要声明 · Legal Notice
 
-> 我们遵循学术界的通行惯例，在 GitHub 上公开研究代码，旨在促进学术交流与共同进步。鉴于研究工作的复杂性，疏漏之处在所难免，我们诚挚欢迎各界同仁不吝指教，如有任何问题请及时通过联系邮箱告知我们，以便修正与完善。
+<div style="border: 2px solid #CC0000; background-color: #FFF5F5; border-radius: 8px; padding: 14px 20px; margin: 12px 0;">
+
+> **本账号下所有开源代码均为研究团队在学术研究过程中产生的成果**，代码公开旨在促进学术交流、推动领域发展。我们秉持学术诚信原则，对代码的真实有效性及研究成果的原创性负责。
 >
-> 同时，我们必须申明：任何个人或组织均不得将这些代码用于任何非法用途，或以任何方式进行恶意攻击与诋毁。对于此类行为，我们将保留通过法律途径追究其责任、维护我们团队合法权益的一切权利。
+> **🔴 严正声明：** 任何个人或组织未经核实，以造谣、诽谤、恶意揣测等方式对本团队研究成果进行不实指控或诋毁，**均属侵权行为**。此类行为不仅违反学术道德规范，亦可能触犯相关法律法规（包括但不限于《中华人民共和国刑法》第246条及《民法典》人格权编相关规定）。
+>
+> 对于任何恶意攻击、造谣抹黑的行为，**我们将依法收集证据，并通过法律途径追究侵权人的民事及刑事责任**，坚决维护团队的合法权益与学术声誉。
+>
+> **学术交流欢迎理性探讨，但对于别有用心的恶意指控，我们绝不姑息。**
+
+</div>
 
 <details>
-<summary><strong>English Notice</strong></summary>
+<summary><strong>📄 English Notice</strong></summary>
 
-> In accordance with common practice in the academic community, we have made our research code publicly available on GitHub to foster academic exchange and mutual progress. Given the complexity of research work, oversights and errors are inevitable. We cordially welcome feedback from all peers and kindly request that any issues be promptly reported to us via my email so that we can make corrections and improvements.
+<div style="border: 1px solid #AAAAAA; background-color: #F8F9FA; border-radius: 8px; padding: 14px 20px; margin: 12px 0;">
+
+> All open-source code under this account represents the research outcomes produced by our team during academic studies. The code is made publicly available to foster academic exchange and advance the field. We uphold the principles of academic integrity and take responsibility for the validity of our code and the originality of our research.
 >
-> Furthermore, we must emphasize that no individual or organization is permitted to use this code for any illegal purposes, or to engage in any form of malicious attacks or defamation. Regarding such actions, we reserve all rights to pursue legal measures in order to hold responsible parties accountable and protect the legitimate rights and interests of our team.
+> **🔴 Formal Statement:** Any individual or organization that makes unfounded accusations or defamatory claims against our research results without verification — including through rumor-mongering, defamation, or malicious speculation — is committing an act of infringement. Such conduct not only violates academic ethics but may also constitute violations under applicable laws (including but not limited to Article 246 of the Criminal Law of the People's Republic of China and relevant provisions of the Civil Code on personality rights).
+>
+> **We reserve the right to collect evidence and pursue legal action**, including civil liability and criminal prosecution where applicable under relevant laws, against any malicious attacks or defamatory behavior, in order to resolutely protect our legitimate rights and academic reputation.
+>
+> We welcome rational academic discussion, but **we will not tolerate malicious accusations made in bad faith**.
+
+</div>
 
 </details>
 
