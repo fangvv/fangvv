@@ -122,7 +122,7 @@ Since the author did not continue to engage in scientific research work after gr
 
 </div>
 
-<details>
+<details open>
 <summary><strong>📄 English Notice</strong></summary>
 
 <div style="border: 1px solid #AAAAAA; background-color: #F8F9FA; border-radius: 8px; padding: 14px 20px; margin: 12px 0;">
@@ -143,6 +143,6 @@ Since the author did not continue to engage in scientific research work after gr
 
 <div align="center">
 
-<sub>Thanks for visiting. If these repositories are helpful to your research, stars and citations are sincerely appreciated.</sub>
+<sub>Thanks for visiting. If these repositories are helpful to your research, <strong>stars and citations are sincerely appreciated</strong>.</sub>
 
 </div>
