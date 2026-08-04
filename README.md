@@ -141,26 +141,6 @@ Since the author did not continue to engage in scientific research work after gr
 
 ---
 
-## GitHub 统计 · GitHub Stats
-
-<div align="center">
-
-<p>
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=fangvv&theme=default&hide_border=false&background=FFFFFF&ring=0969DA&fire=0969DA&currStreakLabel=24292F" alt="Weiwei Fang's GitHub Streak" />
-</p>
-
-<p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fangvv&theme=github-light&bg_color=FFFFFF&color=24292F&line=0969DA&point=0969DA&area=true&hide_border=false" alt="Weiwei Fang's GitHub Activity Graph" />
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=fangvv&show_icons=true&theme=default&hide_border=false&bg_color=FFFFFF&title_color=0969DA&icon_color=0969DA&text_color=24292F" alt="Weiwei Fang's GitHub Stats" />
-</p>
-
-</div>
-
----
-
 <div align="center">
 
 <sub>Thanks for visiting. If these repositories are helpful to your research, stars and citations are sincerely appreciated.</sub>
