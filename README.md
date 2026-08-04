@@ -143,6 +143,6 @@ Since the author did not continue to engage in scientific research work after gr
 
 <div align="center">
 
-<sub>Thanks for visiting. If these repositories are helpful to your research, <strong>stars and citations are sincerely appreciated</strong>.</sub>
+<p><strong style="font-size: 1.2em;">Thanks for visiting. If these repositories are helpful to your research, stars and citations are sincerely appreciated.</strong></p>
 
 </div>
