@@ -11,6 +11,15 @@
   <a href="mailto:fangvv@qq.com">
     <img src="https://img.shields.io/badge/Email-fangvv%40qq.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  <a href="https://scholar.google.com/citations?user=xc5CaQEAAAAJ">
+    <img src="https://img.shields.io/badge/Google%20Scholar-Weiwei%20Fang-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar" />
+  </a>
+  <a href="https://orcid.org/0000-0002-6407-7467">
+    <img src="https://img.shields.io/badge/ORCID-0000--0002--6407--7467-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" />
+  </a>
+  <a href="https://www.linkedin.com/in/fangweiwei/">
+    <img src="https://img.shields.io/badge/LinkedIn-fangweiwei-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
   <img src="https://img.shields.io/badge/Research-Computer%20Science-6A5ACD?style=for-the-badge&logo=academia&logoColor=white" alt="Computer Science" />
 </p>
 
