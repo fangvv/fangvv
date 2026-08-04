@@ -154,7 +154,7 @@ Since the author did not continue to engage in scientific research work after gr
 </p>
 
 <p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fangvv&theme=default" alt="Weiwei Fang's GitHub Profile Summary" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fangvv&show_icons=true&theme=default&hide_border=false&bg_color=FFFFFF&title_color=0969DA&icon_color=0969DA&text_color=24292F" alt="Weiwei Fang's GitHub Stats" />
 </p>
 
 </div>
