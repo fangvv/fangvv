@@ -60,7 +60,7 @@ You can visit my [homepage](http://faculty.bjtu.edu.cn/8530/) to learn more abou
 <tr>
 <td width="50%" valign="top">
 
-我用 GitHub 存放我和课题组学生的研究工作相关代码，如果碰巧对您有参考价值，那就太好了。
+我用 GitHub 存放我和课题组学生的研究工作相关代码以及我自己写的有趣或有用的小工具的代码，如果碰巧对您有参考价值，那就太好了。
 
 欢迎您 fork 代码，更欢迎您点击 project 的 star 或者引用我们的 paper，给予我们一点小小的精神支持！
 
@@ -69,7 +69,7 @@ You can visit my [homepage](http://faculty.bjtu.edu.cn/8530/) to learn more abou
 </td>
 <td width="50%" valign="top">
 
-I use GitHub to store the code related to the research work of my students and me. If it happens to be of value or reference to you, that would be wonderful.
+I use GitHub to store the code related to the research work of my students and me, as well as some interesting or useful little tools that I have written myself. If it happens to be of value or reference to you, that would be wonderful.
 
 You are welcome to fork the code, and we would be even more grateful if you could star the projects or cite our papers – a little spiritual support goes a long way!
 
