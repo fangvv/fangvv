@@ -60,7 +60,7 @@ You can visit my [homepage](http://faculty.bjtu.edu.cn/8530/) to learn more abou
 <tr>
 <td width="50%" valign="top">
 
-我用 GitHub 存放我和课题组学生的研究工作相关代码以及我自己写的有趣或有用的小工具的代码，如果碰巧对您有参考价值，那就太好了。
+我用 GitHub 存放我和课题组学生的研究工作相关代码以及我自己写的有趣或有用的小工具的代码，如果碰巧对您有参考价值，那就太好了。之所以把东西放到这里，除了保证科研成果的可复现之外，更多是职业与兴趣使然。大学老师不该只会发论文——对专业应有天然的好奇，对前沿技术应保持持续的敏感。唯有如此，才能教好学生，也才能让自己的研究保持活力。
 
 欢迎您 fork 代码，更欢迎您点击 project 的 star 或者引用我们的 paper，给予我们一点小小的精神支持！
 
@@ -69,7 +69,7 @@ You can visit my [homepage](http://faculty.bjtu.edu.cn/8530/) to learn more abou
 </td>
 <td width="50%" valign="top">
 
-I use GitHub to store the code related to the research work of my students and me, as well as some interesting or useful little tools that I have written myself. If it happens to be of value or reference to you, that would be wonderful.
+I use GitHub to store the code related to the research work of my students and me, as well as some interesting or useful little tools that I have written myself. If it happens to be of value or reference to you, that would be wonderful. The reason I put these things here, besides ensuring the reproducibility of our research results, is largely a matter of professional dedication and genuine interest. A university teacher should not be someone who merely publishes papers. We should maintain a natural curiosity about our discipline and a sustained awareness of frontier technology, for only in this way can we teach our students well and keep our own research vital.
 
 You are welcome to fork the code, and we would be even more grateful if you could star the projects or cite our papers – a little spiritual support goes a long way!
 
